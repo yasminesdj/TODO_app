@@ -14,7 +14,6 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         scaffoldBackgroundColor: Color(0xFF1C1C2D),
         textTheme: TextTheme(
-          // Si `bodyText1` et `bodyText2` posent problème, utilisez d'autres styles de texte
           bodyLarge: TextStyle(color: Colors.white),
           bodyMedium: TextStyle(color: Colors.white),
         ),
